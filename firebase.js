@@ -1,5 +1,5 @@
 import * as firebase from "firebase";
-import { firebaseKeys } from './Firebasekeys';
+import { firebaseKeys } from './keys/Firebasekeys';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
